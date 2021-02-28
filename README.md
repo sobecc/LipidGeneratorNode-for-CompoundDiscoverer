@@ -1,12 +1,12 @@
 # LipidGeneratorNode for [CompoundDiscoverer](https://mycompounddiscoverer.com)
 
-Node that generates a database for following lipid classes:
-  - Phosphatidylcholines (PC and PC-O)<br/>
-  - Lysophosphatidylcholines (LPC and LPC-O)<br/>
-  - Phosphatidylethanolamines (PE and PE-O)<br/>
-  - Lysophosphatidylethanolamines (LPE and LPE-O)<br/>
-  - Phosphatidylserines (PS)<br/>
-  - Lysophosphatidylserines (LPS)<br/>
+Node that generates a database for the following lipid classes:
+  - Phosphatidylcholines (PCs and PC-Os)<br/>
+  - Lysophosphatidylcholines (LPCs and LPC-Os)<br/>
+  - Phosphatidylethanolamines (PEs and PE-Os)<br/>
+  - Lysophosphatidylethanolamines (LPEs and LPE-Os)<br/>
+  - Phosphatidylserines (PSs)<br/>
+  - Lysophosphatidylserines (LPSs)<br/>
   - Phosphatidylinositols (PIs)<br/>
   - Lysophosphatidylinositols (LPIs)<br/>
   - Phosphatidylglycerol (PGs)<br/>
