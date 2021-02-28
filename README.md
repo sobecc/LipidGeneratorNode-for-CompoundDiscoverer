@@ -12,10 +12,10 @@ Node that generates a database for the following lipid classes:
   - Phosphatidylglycerol (PGs)<br/>
   - Lysophosphatidylglycerols (LPGs)<br/>
   - Glycerophosphates (PAs and PA-Os)<br/>
-  - Lysoglycerophosphates (LPA and LPA-O)<br/>
+  - Lysoglycerophosphates (LPAs and LPA-Os)<br/>
   - Ceramides (Cers)<br/>
   - Hexosylceramides (HexCers)<br/>
-  - Sphingomyelins (SM)<br/>
+  - Sphingomyelins (SMs)<br/>
   - Triacylglycerols (TAGs)<br/>
   - Diacylglycerols (DAGs)<br/>
   - Monoacylglycerols (MAGs)<br/>
